@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+Note - The api used in this project to fetch news is not a free api and cannot be used for production. It can only used for development purpose and works on localhost.
+To see the working site follow the below steps.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
