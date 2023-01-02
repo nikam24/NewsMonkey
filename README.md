@@ -2,6 +2,7 @@
 
 Note - The api used in this project to fetch news is not a free api and cannot be used for production. It can only used for development purpose and works on localhost.
 To see the working site follow the below steps.
+The demo video of the working application on localhost :  https://drive.google.com/file/d/1pGoDmRtNw7taRAhKA9GiT_hEyCMHTFHz/view?usp=sharing
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
