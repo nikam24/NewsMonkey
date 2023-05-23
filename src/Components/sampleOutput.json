@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Ben Baby, Jake Trotter",
+            "title": "Cleveland Browns sack Joe Burrow, Cincinnati Bengals - ESPN",
+            "description": "The Browns rode the defense and a pair of Nick Chubb touchdown runs to a victory over the Bengals on \"Monday Night Football.\"",
+            "url": "https://www.espn.com/nfl/story/_/id/34921228/cleveland-browns-sack-joe-burrow-cincinnati-bengals",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1101%2Fr1084356_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-11-01T05:21:42Z",
+            "content": "CLEVELAND -- The Cleveland Browns rode a dominating defense and a pair of Nick Chubb touchdown runs to a 32-13 victory over the Cincinnati Bengals -- who were without injured wide receiver Ja'Marr Ch… [+5312 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Alex Harring",
+            "title": "Stock futures rise as indexes exit winning month and investors look to Fed meeting - CNBC",
+            "description": "Investors are looking to the Fed meeting this week.",
+            "url": "https://www.cnbc.com/2022/10/31/stock-futures-flat-as-indexes-exit-winning-month-and-investors-look-to-fed-meeting.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107142887-1666997758697-NYSE-Trading-Floor-OB-20221028-CC-PRESS-3.jpg?v=1667253717&w=1920&h=1080",
+            "publishedAt": "2022-11-01T04:22:00Z",
+            "content": "Stock futures are higher on Tuesday morning as traders leave behind a winning month and look ahead to the Federal Reserve's interest rate decision on Wednesday.\r\nFutures tied to the Dow Jones Industr… [+1626 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": null,
+            "title": "As Israel votes for fifth time since 2019, these 5 factors could break the deadlock - The Times of Israel",
+            "description": "From minority voting patterns to disaffected, undecided voters, to the weather, here's what may shift the balance -- giving Netanyahu his comeback or thwarting him again",
+            "url": "https://www.timesofisrael.com/as-israel-votes-for-fifth-time-since-2019-these-5-factors-could-break-the-deadlock/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2022/10/elections-montage-raw-202210-color-1024x640.jpg",
+            "publishedAt": "2022-11-01T04:15:52Z",
+            "content": "Israelis are headed to polling stations throughout the country Tuesday to elect the 25th Knesset. The nation’s fifth vote in under four years takes place as multiple opinion polls predict an incredib… [+9166 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "James Gordon",
+            "title": "Chicago police say up to fourteen people may have been shot nine critically injured on West Side - Daily Mail",
+            "description": "At least 14 people were injured in a shooting in Chicago on Monday night including three children. The victims were sent to several hospitals across the city. The attack happened in Garfield Park.",
+            "url": "https://www.dailymail.co.uk/news/article-11376077/Chicago-police-say-fourteen-people-shot-nine-critically-injured-West-Side.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/11/01/03/64054581-0-image-a-62_1667275133844.jpg",
+            "publishedAt": "2022-11-01T04:07:13Z",
+            "content": "At least fourteen people were shot during a drive-by shooting on Monday night in East Garfield Park on the West Side of Chicago including three children aged 3, 11, and 13. \r\nThe extent of the injuri… [+7274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Seoul Halloween 2022 LIVE | South Korea Mourns The Death Of Victims | Seoul Stampede | News18 Live - CNN-News18",
+            "description": "Seoul Stampede Live | Seoul Mourns Stampede Victims | Seoul Halloween 2022 Tragedy | News18 LiveMost weekends, the narrow alleys of Itaewon, the neon-lit nig...",
+            "url": "https://www.youtube.com/watch?v=a9qHkR9zRRg",
+            "urlToImage": "https://i.ytimg.com/vi/a9qHkR9zRRg/maxresdefault_live.jpg",
+            "publishedAt": "2022-11-01T03:49:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Hannah Knowles, Colby Itkowitz, Isaac Arnsdorf",
+            "title": "Jewish leaders call on GOP candidates to reject antisemitic comments - The Washington Post",
+            "description": "A series of bigoted comments from GOP candidates’ associates or supporters have raised alarms among many Democrats and Jewish advocacy groups.",
+            "url": "https://www.washingtonpost.com/politics/2022/10/31/antisemitism-republicans-elections/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7LBD6JSCI4I63PQXRHF6NOGAUU.jpg&w=1440",
+            "publishedAt": "2022-11-01T03:49:00Z",
+            "content": "Comment on this story\r\nJewish leaders raised alarms Monday about antisemitism they say is increasingly normalized in American politics after a series of bigoted comments from associates or supporters… [+8849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Fans wear ‘Fight antisemitism’ shirts directed at Kyrie Irving amid furor - The Guardian",
+            "description": "Fans wearing ‘Fight Antisemitism’ shirts occupied some courtside seats at the Brooklyn-Indiana game on Monday night",
+            "url": "https://www.theguardian.com/sport/2022/oct/31/brooklyn-nets-fight-antisemitism-shirts-kyrie-irving",
+            "urlToImage": "https://i.guim.co.uk/img/media/04b317b1e39f319b4a0b426f91d7fcc0c1e752e9/0_333_5099_3060/master/5099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74529060416828c91856d680e2747117",
+            "publishedAt": "2022-11-01T03:47:00Z",
+            "content": "Fans wearing Fight Antisemitism shirts occupied some courtside seats at the Brooklyn-Indiana game on Monday night, days after Nets guard Kyrie Irving tweeted out a link to a film that includes anti-J… [+1503 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Russia recruiting US-trained Afghan commandos for Ukraine: Report - Al Jazeera English",
+            "description": "Russia is recruiting Afghan commandos who fled to Iran after Taliban takeover to fight in Ukraine, ex-generals tell AP.",
+            "url": "https://www.aljazeera.com/news/2022/11/1/russia-recruiting-us-trained-afghan-commandos-for-ukraine-report",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/11/AP22301761134598.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-11-01T03:15:30Z",
+            "content": "Afghan special forces soldiers who fought alongside American troops and then fled to Iran after the United Statess chaotic withdrawal from Afghanistan last year are now being recruited by the Russian… [+5991 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "World Series Game 3 postponed: Rain pushes Phillies-Astros to Tuesday, changes schedule for 2022 Fall Classic - CBS Sports",
+            "description": "Monday's rainout in Philadelphia has changed the rest of the schedule for the 2022 World Series",
+            "url": "https://www.cbssports.com/mlb/news/world-series-game-3-postponed-rain-pushes-phillies-astros-to-tuesday-changes-schedule-for-2022-fall-classic/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/11/01/9b595c16-5197-4d4b-8679-b1b1e5d46e5a/thumbnail/1200x675/0a106c11f286db5de73fa20872409ece/cbp-rain-getty-2.png",
+            "publishedAt": "2022-11-01T03:15:00Z",
+            "content": "The Houston Astros and Philadelphia Phillies will have to wait one more day to resume the 2022 World Series. Game 3 of the Fall Classic has been postponed due to rain, MLB announced Monday evening ju… [+2480 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TCPalm"
+            },
+            "author": "Jennifer Sangalang, Treasure Coast",
+            "title": "Halloween Powerball numbers for Monday, 10/31/22, $1 billion jackpot - TCPalm",
+            "description": "After months of rollovers, the jackpot soared to $1 billion, the second-largest prize in Powerball history. Here are the numbers for Oct. 31, 2022",
+            "url": "https://www.tcpalm.com/story/news/2022/10/31/halloween-powerball-numbers-monday-october-2022-billion-jackpot/10657080002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/01/25/NFTU/a690da44-1ad6-4f78-8a43-501a11fe3acc-Powerball.jpg?auto=webp&crop=749,422,x216,y0&format=pjpg&width=1200",
+            "publishedAt": "2022-11-01T03:12:33Z",
+            "content": "Will the spookiest of holidays make a Powerball billionaire?\r\nAfter months of rollovers, the jackpot soared to $1 billion, the second-largest prize in the history of the game and among the Top 10 big… [+4344 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Bryan Harris, Michael Pooler, Michael Stott",
+            "title": "Brazil truckers protest against Lula election win as Bolsonaro remains silent - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/deec1d37-38ce-40b8-820b-11a4a072ddb1",
+            "urlToImage": null,
+            "publishedAt": "2022-11-01T02:50:24Z",
+            "content": "Gain a global perspective on the US and go beyond with curated news and analysis from 600\r\njournalists in 50+ countries covering politics, business, innovation, trends and more."
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Elon Musk fires Twitter board, making himself sole director - Al Jazeera English",
+            "description": "Tesla CEO becomes sole director of social media giant after finalising $44bn takeover.",
+            "url": "https://www.aljazeera.com/economy/2022/11/1/elon-musk-fires-twitter-board-making-himself-sole-director",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-10-30T043547Z_465668540_RC2EAX9DCRVW_RTRMADP_3_TWITTER-M-A-MUSK-FIRING.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-11-01T02:21:21Z",
+            "content": "Elon Musk has fired Twitters board of directors, giving himself unfettered control over the social media giant, according to a company filing.\r\nMusk became sole director of Twitter after finalising h… [+2313 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Katie Campione",
+            "title": "‘Dancing With The Stars’: An Emotional Contemporary And Electric Group Dance Catapult An Actor To The Top Of The Leaderboard - Deadline",
+            "description": "Everyone was in the Halloween spirit this week on Dancing With the Stars. Not only did the contestants give some of their spookiest performances, but even the judges got into the holiday, dressing in their best costumes as they doled out healthy doses of prai…",
+            "url": "https://deadline.com/2022/10/dancing-with-the-stars-recap-halloween-night-1235159699/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/10/dancing-with-the-stars-trevor-donovan.jpeg?w=1000",
+            "publishedAt": "2022-11-01T02:06:00Z",
+            "content": "Everyone was in the Halloween spirit this week on Dancing With the Stars. \r\nNot only did the contestants give some of their spookiest performances, but even the judges got into the holiday, dressing … [+7006 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kathryn Watson",
+            "title": "DePape Pelosi attack: Suspect intended to kidnap Nancy Pelosi and \"break her kneecaps,\" San Francisco DA says - CBS News",
+            "description": "According to an FBI affidavit, investigators found \"a roll of tape, white rope, one hammer, one pair of rubber and cloth gloves, and a journal\" in suspect David DePape's backpack.",
+            "url": "https://www.cbsnews.com/live-updates/paul-pelosi-attack-federal-charges-assault-attempted-kidnapping-state-charges-watch-live-stream-today-2022-10-31/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/28/5dd4824d-a95d-46f7-9594-fdce3c63bba0/thumbnail/1200x630/720b09204c78170cb301a5ea02f269df/gettyimages-1076911722.jpg",
+            "publishedAt": "2022-11-01T02:04:00Z",
+            "content": "David Wayne DePape, the man accused of breaking into House Speaker Nancy Pelosi's home and violently attacking her husband, intended to kidnap her and possibly break \"her kneecaps,\" he said, accordin… [+3137 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Casey Tolan, Curt Devine, Scott Bronstein, Daniel A. Medina",
+            "title": "'Absolutely no evidence:' Police, FBI affidavit debunk salacious conspiracy about Pelosi attack pushed by conservatives - CNN",
+            "description": "Prominent figures on social media, including some of the loudest voices on the political right, are pushing a salacious and false conspiracy theory about the attack on House Speaker Nancy Pelosi's husband, in an apparent attempt to shift the narrative about t…",
+            "url": "https://www.cnn.com/2022/10/31/politics/pelosi-attack-right-wing-conspiracy-theories-invs/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221028115118-01-paul-pelosi-attack-scene.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-01T01:57:00Z",
+            "content": "Prominent figures on social media, including some of the loudest voices on the political right, are pushing a salacious and false conspiracy theory about the attack on House Speaker Nancy Pelosis hus… [+7689 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Dominic Rushe",
+            "title": "US judge blocks $2.2bn Penguin Random House merger - The Guardian",
+            "description": "Justice department argued the melding of the publishing house with Simon & Schuster would harm competition and authors’ pay",
+            "url": "https://www.theguardian.com/books/2022/oct/31/penguin-random-house-simon-schuster-merger-blocked",
+            "urlToImage": "https://i.guim.co.uk/img/media/5a22129697cf46e0e35e4daa6bf5aaa0bc175eb7/0_134_4672_2803/master/4672.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65cde5f10fbf0d201336a88666f3e920",
+            "publishedAt": "2022-11-01T01:43:00Z",
+            "content": "A US judge has blocked the $2.2bn planned merger of Penguin Random House, the worlds largest book publisher, with rival Simon &amp; Schuster.\r\nJudge Florence Pan of the US district court for the Dist… [+3293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indianapolis Star"
+            },
+            "author": ", The Indianapolis Star",
+            "title": "Who is Delphi murder suspect Richard Allen? Indiana town 'shocked' - IndyStar",
+            "description": "Five and a half years after two teen girls were slain, Delphi, Indiana resident Richard Allen has been arrested in the case. His community is shocked.",
+            "url": "https://www.indystar.com/story/news/crime/2022/11/01/who-is-delphi-murder-suspect-richard-allen-indiana-town-shocked/69607520007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/31/PIND/55e66148-ed55-4911-a393-04472dcc086b-103122_delphi_18_.JPG?auto=webp&crop=2399,1350,x0,y166&format=pjpg&width=1200",
+            "publishedAt": "2022-11-01T00:29:59Z",
+            "content": "Richard Allen, 50, was the guy who worked at CVS. He played pool at the now-closed JC's Bar and Grill. He was nice enough, not overly outgoing.\r\nIn the small community of Delphi, Indiana, that was ab… [+5677 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "SpaceX rolls out Falcon Heavy rocket ahead of Tuesday launch (photo) - Space.com",
+            "description": "The powerful rocket is scheduled to lift off Tuesday (Nov. 1) at 9:40 a.m. ET.",
+            "url": "https://www.space.com/spacex-rolls-out-falcon-heavy-ussf-44-launch-photo",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/R2GXf7dxqjAPYvWaCYVWNQ-1200-80.jpeg",
+            "publishedAt": "2022-10-31T23:38:32Z",
+            "content": "The most powerful operational rocket in the world is at the launch pad ahead of a planned liftoff on Tuesday morning (Nov. 1).\r\nSpaceX rolled its Falcon Heavy rocket out to Launch Complex 39A at NASA… [+2508 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Delta pilots overwhelmingly vote to authorize strike - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vdGhlaGlsbC5jb20vcG9saWN5L3RyYW5zcG9ydGF0aW9uLzM3MTMxNDAtZGVsdGEtcGlsb3RzLW92ZXJ3aGVsbWluZ2x5LXZvdGUtdG8tYXV0aG9yaXplLXN0cmlrZS_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-10-31T23:34:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ian Livingston",
+            "title": "PM Update: Poorly timed showers for trick-or-treaters this evening - The Washington Post",
+            "description": "Showers may be more on than off this evening, but we'll hope for some breaks. It will be nicer Tuesday.",
+            "url": "https://www.washingtonpost.com/weather/2022/10/31/dc-area-forecast-halloween-showers/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7EM2JKCU5DITFCH6VT3ZVSKJM.jpg&w=1440",
+            "publishedAt": "2022-10-31T23:00:00Z",
+            "content": "Comment on this story\r\nA warm spell is getting underway, and todays temperatures rose deep into the 60s despite a lot of clouds. Although it has been dry other than a quick shower for Halloween so fa… [+1764 chars]"
+        }
+    ]
+}
